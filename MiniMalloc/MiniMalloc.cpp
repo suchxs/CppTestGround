@@ -23,4 +23,12 @@ int main() {
 
 
 /* To do:
+*  Seperate Files
+*  Create MiniMalloc Function
+* 
+*  Steps
+*  - Allocation, init memory pool etc etc.
+*  - Dealloc
+*  - Free
+*  - Fragmentation
 */
