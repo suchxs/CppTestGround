@@ -1,0 +1,10 @@
+﻿  BitMan.cpp
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(19,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(20,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(21,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(22,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(23,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(24,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(25,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\BitMan.cpp(26,5): warning C5051: attribute [[maybe_unused]] requires at least '/std:c++17'; ignored
+  BitManipulation.vcxproj -> C:\Users\Dyedw\Documents\cpp\CppTestGround\BitManipulation\BitManipulation\x64\Debug\BitManipulation.exe
